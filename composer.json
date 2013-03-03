@@ -5,6 +5,7 @@
     "keywords": [
         "zf2"
     ],
+    "version": "0.0.1",
     "homepage": "https://github.com/ZF-Commons/ZfcUserDoctrineMongoODM",
     "authors": [
         {
