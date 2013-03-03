@@ -24,7 +24,7 @@
         "zendframework/zendframework": "2.*",
         "zf-commons/zfc-base": "0.*",
         "zf-commons/zfc-user": "0.*",
-        "doctrine/doctrine-mongo-odm-module": "0.*"
+        "doctrine/doctrine-mongo-odm-module": "0.8.*@dev"
     },
     "autoload": {
         "psr-0": {
