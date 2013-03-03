@@ -1,5 +1,5 @@
 {
-    "name": "jhuet/zfc-user-doctrine-mongo-odm",
+    "name": "zf-commons/zfc-user-doctrine-mongo-odm",
     "description": "Clone of Doctrine2 MongoDB ODM storage adapter for ZfcUser with composer support.",
     "type": "library",
     "keywords": [
